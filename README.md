@@ -6,13 +6,13 @@ Bem-vindo ao repositório de estudos em Python! Aqui você encontrará uma sele�
 
 | **Matéria**                      | **Descrição**                                 | **Link**                                      |
 |----------------------------------|-----------------------------------------------|-----------------------------------------------|
-| **Estruturas Lógicas**           | Introdução às estruturas lógicas.   | [Clique aqui](notebooks/EstruturasLogicas.ipynb)        |
-| **Desenvolvimento de Algoritmos**| Exemplos práticos de desenvolvimento de algoritmos. | [Clique aqui](notebooks/DesenvolvimentoDeAlgoritmos.ipynb) |
-| **Estruturas de Dados I**        | Fundamentos das estruturas de dados básicas. | [Clique aqui](notebooks/EstruturasDeDadosI.ipynb)       |
-| **Estruturas de Dados II**       | Avançando em estruturas de dados.    | [Clique aqui](notebooks/EstruturasDeDadosII.ipynb)      |
-| **Teoria dos Grafos**            | Aplicações de Python na teoria dos grafos.     | [Clique aqui](notebooks/TeoriaDosGrafos.ipynb)          |
-| **Processamento de Imagens**     | Processamento básico de imagens. | [Clique aqui](notebooks/ProcessamentoImagens.ipynb)     |
-| **Python OpenCV** | Utilização da biblioteca OpenCV voltada para visão computacional | [Clique aqui](python-opencv)     |
+| **Estruturas Lógicas**           | Introdução às estruturas lógicas.   | [Link](notebooks/EstruturasLogicas.ipynb)        |
+| **Desenvolvimento de Algoritmos**| Exemplos práticos de desenvolvimento de algoritmos. | [Link](notebooks/DesenvolvimentoDeAlgoritmos.ipynb) |
+| **Estruturas de Dados I**        | Fundamentos das estruturas de dados básicas. | [Link](notebooks/EstruturasDeDadosI.ipynb)       |
+| **Estruturas de Dados II**       | Avançando em estruturas de dados.    | [Link](notebooks/EstruturasDeDadosII.ipynb)      |
+| **Teoria dos Grafos**            | Aplicações de Python na teoria dos grafos.     | [Link](notebooks/TeoriaDosGrafos.ipynb)          |
+| **Processamento de Imagens**     | Processamento básico de imagens. | [Link](notebooks/ProcessamentoImagens.ipynb)     |
+| **Python OpenCV** | Utilização da biblioteca OpenCV voltada para visão computacional | [Link](python-opencv)     |
 
 
 ## Como Contribuir
