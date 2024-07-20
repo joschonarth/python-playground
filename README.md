@@ -6,13 +6,13 @@ Bem-vindo ao repositório de estudos em Python! Aqui você encontrará uma sele�
 
 | **Matéria**                      | **Descrição**                                 | **Link**                                      |
 |----------------------------------|-----------------------------------------------|-----------------------------------------------|
-| **Estruturas Lógicas**           | Introdução às estruturas lógicas em Python.   | [Clique aqui](notebooks/EstruturasLogicas.ipynb)        |
-| **Desenvolvimento de Algoritmos**| Exemplos práticos de desenvolvimento de algoritmos em Python. | [Clique aqui](notebooks/DesenvolvimentoDeAlgoritmos.ipynb) |
-| **Estruturas de Dados I**        | Fundamentos das estruturas de dados básicas em Python. | [Clique aqui](notebooks/EstruturasDeDadosI.ipynb)       |
-| **Estruturas de Dados II**       | Avançando em estruturas de dados em Python.    | [Clique aqui](notebooks/EstruturasDeDadosII.ipynb)      |
+| **Estruturas Lógicas**           | Introdução às estruturas lógicas.   | [Clique aqui](notebooks/EstruturasLogicas.ipynb)        |
+| **Desenvolvimento de Algoritmos**| Exemplos práticos de desenvolvimento de algoritmos. | [Clique aqui](notebooks/DesenvolvimentoDeAlgoritmos.ipynb) |
+| **Estruturas de Dados I**        | Fundamentos das estruturas de dados básicas. | [Clique aqui](notebooks/EstruturasDeDadosI.ipynb)       |
+| **Estruturas de Dados II**       | Avançando em estruturas de dados.    | [Clique aqui](notebooks/EstruturasDeDadosII.ipynb)      |
 | **Teoria dos Grafos**            | Aplicações de Python na teoria dos grafos.     | [Clique aqui](notebooks/TeoriaDosGrafos.ipynb)          |
-| **Processamento de Imagens**     | Utilização de Python para processamento básico de imagens. | [Clique aqui](notebooks/ProcessamentoImagens.ipynb)     |
-| ** Python OpenCV | Utilização da biblioteca OpenCV voltada para visão computacional e processamento de imagens | [Clique aqui](python-opencv)     |
+| **Processamento de Imagens**     | Processamento básico de imagens. | [Clique aqui](notebooks/ProcessamentoImagens.ipynb)     |
+| **Python OpenCV** | Utilização da biblioteca OpenCV voltada para visão computacional | [Clique aqui](python-opencv)     |
 
 
 ## Como Contribuir
