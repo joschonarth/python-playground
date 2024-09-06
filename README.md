@@ -4,15 +4,15 @@ Bem-vindo ao repositório de estudos em Python! Aqui você encontrará uma sele�
 
 ## Índice de Materiais
 
-| **Matéria**                      | **Descrição**                                 | **Link**                                      |
+| **Matéria**                      | **Descrição**                                 | **Repositório**                                      |
 |----------------------------------|-----------------------------------------------|-----------------------------------------------|
-| **Estruturas Lógicas**           | Introdução às estruturas lógicas.   | [Link](notebooks/EstruturasLogicas.ipynb)        |
-| **Desenvolvimento de Algoritmos**| Exemplos práticos de desenvolvimento de algoritmos. | [Link](notebooks/DesenvolvimentoDeAlgoritmos.ipynb) |
-| **Estruturas de Dados I**        | Fundamentos das estruturas de dados básicas. | [Link](notebooks/EstruturasDeDadosI.ipynb)       |
-| **Estruturas de Dados II**       | Avançando em estruturas de dados.    | [Link](notebooks/EstruturasDeDadosII.ipynb)      |
-| **Teoria dos Grafos**            | Aplicações de Python na teoria dos grafos.     | [Link](notebooks/TeoriaDosGrafos.ipynb)          |
-| **Processamento de Imagens**     | Processamento básico de imagens. | [Link](notebooks/ProcessamentoImagens.ipynb)     |
-| **Python OpenCV** | Utilização da biblioteca OpenCV voltada para visão computacional | [Link](python-opencv)     |
+| **Estruturas Lógicas**           | Introdução às estruturas lógicas.   | [![Repositório](https://img.shields.io/badge/Ver%20Material-29577E?style=for-the-badge)](notebooks/EstruturasLogicas.ipynb)        |
+| **Desenvolvimento de Algoritmos**| Exemplos práticos de desenvolvimento de algoritmos. | [![Repositório](https://img.shields.io/badge/Ver%20Material-29577E?style=for-the-badge)](notebooks/DesenvolvimentoDeAlgoritmos.ipynb) |
+| **Estruturas de Dados I**        | Fundamentos das estruturas de dados básicas. | [![Repositório](https://img.shields.io/badge/Ver%20Material-29577E?style=for-the-badge)](notebooks/EstruturaDeDadosI.ipynb)       |
+| **Estruturas de Dados II**       | Avançando em estruturas de dados.    | [![Repositório](https://img.shields.io/badge/Ver%20Material-29577E?style=for-the-badge)](notebooks/EstruturaDeDadosII.ipynb)      |
+| **Teoria dos Grafos**            | Aplicações de Python na teoria dos grafos.     | [![Repositório](https://img.shields.io/badge/Ver%20Material-29577E?style=for-the-badge)](notebooks/TeoriaDosGrafos.ipynb)          |
+| **Processamento de Imagens**     | Processamento básico de imagens. | [![Repositório](https://img.shields.io/badge/Ver%20Material-29577E?style=for-the-badge)](notebooks/ProcessamentoImagens.ipynb)     |
+| **Python OpenCV** | Utilização da biblioteca OpenCV voltada para visão computacional | [![Repositório](https://img.shields.io/badge/Ver%20Material-29577E?style=for-the-badge)](python-opencv)     |
 
 
 ## Como Contribuir
