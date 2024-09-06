@@ -1,4 +1,4 @@
-# [<img src="https://skillicons.dev/icons?i=python&theme=dark" width="30" align="center">](https://www.python.org/) Materiais de Estudo em Python
+# [<img src="https://skillicons.dev/icons?i=python&theme=dark" width="40" align="center">](https://www.python.org/) Materiais de Estudo em Python
 
 Bem-vindo ao repositório de estudos em Python! Aqui você encontrará uma seleção de materiais e códigos para aprofundar seus conhecimentos na linguagem.
 
