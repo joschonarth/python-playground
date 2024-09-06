@@ -1,8 +1,8 @@
-# Materiais de Estudo em Python
+# [<img src="https://skillicons.dev/icons?i=python&theme=dark" width="30" align="center">](https://www.python.org/) Materiais de Estudo em Python
 
 Bem-vindo ao repositório de estudos em Python! Aqui você encontrará uma seleção de materiais e códigos para aprofundar seus conhecimentos na linguagem.
 
-## Índice de Materiais
+## 🗂️ Índice de Materiais
 
 | **Matéria**                      | **Descrição**                                 | **Repositório**                                      |
 |----------------------------------|-----------------------------------------------|-----------------------------------------------|
@@ -15,13 +15,18 @@ Bem-vindo ao repositório de estudos em Python! Aqui você encontrará uma sele�
 | **Python OpenCV** | Utilização da biblioteca OpenCV voltada para visão computacional | [![Repositório](https://img.shields.io/badge/Ver%20Material-29577E?style=for-the-badge)](python-opencv)     |
 
 
-## Como Contribuir
+## 🤝 Como Contribuir
 
 Se você deseja adicionar novos materiais ou melhorar os existentes, sinta-se à vontade para abrir um Pull Request!
 
-## Contato
 
+## 📞 Contato 
 Para qualquer dúvida ou sugestão, entre em contato!
+
+<div>
+    <a href="https://www.linkedin.com/in/joschonarth/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="mailto:joschonarth@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 ---
 
