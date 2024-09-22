@@ -1,6 +1,6 @@
-# [<img src="https://skillicons.dev/icons?i=python&theme=dark" width="40" align="center">](https://www.python.org/) Materiais de Estudo em Python
+# [<img src="https://skillicons.dev/icons?i=python&theme=dark" width="40" align="center">](https://www.python.org/) Materiais de Estudo sobre Python
 
-Bem-vindo ao repositório de estudos em Python! Aqui você encontrará uma seleção de materiais e códigos para aprofundar seus conhecimentos na linguagem.
+Bem-vindo ao repositório de estudos sobre Python! Aqui você encontrará uma seleção de materiais e códigos para aprofundar seus conhecimentos na linguagem.
 
 ## 🗂️ Índice de Materiais
 
